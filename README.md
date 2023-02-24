@@ -23,9 +23,12 @@ You can click the Preview link to take a look at your changes.
 **Background in:** Python, Machine Learning, Django.
 
 **Links:**
-<!--* [Blog](https://sigmoidal.ai)
-* [Medium](https://www.medium.com)-->
-* [LinkedIn]([https://www.linkedin.com/in/carlosfab](https://www.linkedin.com/in/alexandre-babilone-fonseca/))
+* [LinkedIn](https://www.linkedin.com/in/alexandre-babilone-fonseca/)
+<!--
+* [Blog](https://sigmoidal.ai)
+* [Medium](https://www.medium.com)
+-->
+
 
 <!--
 ## Projetos:
