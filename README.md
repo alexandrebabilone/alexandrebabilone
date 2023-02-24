@@ -30,7 +30,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 * [LinkedIn](https://www.linkedin.com/in/carlosfab)
 * [Medium](https://www.medium.com)
 
-
+<!--
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
@@ -41,7 +41,7 @@ Veja os tutoriais publicados do Sigmoidal:
 * **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
 * **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
 * **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
-
+-->
 ---
 
 
